@@ -1,0 +1,11 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\bin\Debug\ProstakishinaTest.exe.config
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\bin\Debug\ProstakishinaTest.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\bin\Debug\ProstakishinaTest.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\bin\Debug\ProstakishinaLibraryLib.dll
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\bin\Debug\ProstakishinaLibraryLib.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\obj\Debug\ProstakishinaTest.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\obj\Debug\ProstakishinaTest.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\obj\Debug\Prostaki.D96FEFE7.Up2Date
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\obj\Debug\ProstakishinaTest.exe
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\obj\Debug\ProstakishinaTest.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaTest\ProstakishinaTest\obj\Debug\ProstakishinaTest.exe.config
